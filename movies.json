@@ -1,0 +1,431 @@
+{
+  "rails": [
+    {
+      "id": "marvel",
+      "title": "Marvel Movies",
+      "movies": [
+        {
+          "id": "iron-man",
+          "imdbId": "tt0371746",
+          "railId": "marvel",
+          "title": "Iron Man",
+          "year": 2008,
+          "runtimeMinutes": 126,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/iron-man.mp4",
+          "description": "Iron Man is a 2008 American superhero film based on the Marvel Comics character Iron Man. Produced by Marvel Studios and distributed by Paramount Pictures, it is the first film in the Marvel Cinematic Universe (MCU). Directed by Jon Favreau and written by the teams of Mark Fergus & Hawk Ostby and Art Marcum & Matt Holloway, the film stars Robert Downey Jr. as Tony Stark / Iron Man alongside Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, and Shaun Toub."
+        },
+        {
+          "id": "iron-man-2",
+          "imdbId": "tt1228705",
+          "railId": "marvel",
+          "title": "Iron Man 2",
+          "year": 2010,
+          "runtimeMinutes": 125,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/iron-man-2.mp4",
+          "description": "Iron Man 2 is a 2010 American superhero film directed by Jon Favreau, based on the Marvel Comics character Iron Man. Produced by Marvel Studios and distributed by Paramount Pictures, it is the sequel to Iron Man (2008) and the third film in the Marvel Cinematic Universe (MCU). The film stars Robert Downey Jr. as Tony Stark / Iron Man, alongside Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Mickey Rourke, and Samuel L. Jackson. In the film, Stark must contend with the U.S. government's demands for his Iron Man technology while battling Ivan Vanko, a Russian scientist bent on revenge, and dealing with the effects of palladium poisoning from his own arc reactor."
+        },
+        {
+          "id": "captain-america-the-first-avenger",
+          "imdbId": "tt0458339",
+          "railId": "marvel",
+          "title": "Captain America: The First Avenger",
+          "year": 2011,
+          "runtimeMinutes": 124,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/captain-america-the-first-avenger.mp4",
+          "description": "Captain America: The First Avenger is a 2011 American superhero film based on the Marvel Comics character Captain America, produced by Marvel Studios and distributed by Paramount Pictures. It is the fifth film in the Marvel Cinematic Universe (MCU). Directed by Joe Johnston, the film stars Chris Evans as Steve Rogers, a rejected military soldier transformed into the super-soldier Captain America to aid the United States government's fight against HYDRA, the Nazi-affiliated organization led by the Red Skull, during World War II."
+        },
+        {
+          "id": "the-avengers",
+          "imdbId": "tt0848228",
+          "railId": "marvel",
+          "title": "The Avengers",
+          "year": 2012,
+          "runtimeMinutes": 143,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/the-avengers.mp4",
+          "description": "Marvel's The Avengers (titled Marvel Avengers Assemble in the United Kingdom and Ireland and commonly referred to as simply The Avengers) is a 2012 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sixth film in the Marvel Cinematic Universe (MCU). Written and directed by Joss Whedon, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, and Jeremy Renner as the Avengers, alongside Tom Hiddleston, Stellan Skarsgård, and Samuel L. Jackson. In the film, Nick Fury and the spy agency S.H.I.E.L.D. recruit Tony Stark, Steve Rogers, Bruce Banner, Thor, Natasha Romanoff, and Clint Barton to form a team capable of stopping Thor's brother Loki from subjugating Earth."
+        },
+        {
+          "id": "iron-man-3",
+          "imdbId": "tt1300854",
+          "railId": "marvel",
+          "title": "Iron Man 3",
+          "year": 2013,
+          "runtimeMinutes": 130,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/iron-man-3.mp4",
+          "description": "Iron Man 3 is a 2013 American superhero film directed by Shane Black, based on the Marvel Comics character Iron Man. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Iron Man 2 (2010) and the seventh film in the Marvel Cinematic Universe (MCU). The film stars Robert Downey Jr. as Tony Stark / Iron Man alongside Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stephanie Szostak, James Badge Dale, Jon Favreau, and Ben Kingsley. In the film, Stark grapples with post-traumatic stress following the events of The Avengers while facing a mysterious terrorist known as the Mandarin."
+        },
+        {
+          "id": "captain-america-the-winter-soldier",
+          "imdbId": "tt1843866",
+          "railId": "marvel",
+          "title": "Captain America: The Winter Soldier",
+          "year": 2014,
+          "runtimeMinutes": 136,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Captain_America_The_Winter_Soldier_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/captain-america-the-winter-soldier.mp4",
+          "description": "Captain America: The Winter Soldier is a 2014 American superhero film based on the Marvel Comics character Captain America, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Captain America: The First Avenger (2011) and the ninth film in the Marvel Cinematic Universe (MCU). The film was directed by Anthony and Joe Russo from a screenplay by Christopher Markus and Stephen McFeely. It stars Chris Evans as Steve Rogers / Captain America alongside Scarlett Johansson, Sebastian Stan, Anthony Mackie, Cobie Smulders, Frank Grillo, Emily VanCamp, Hayley Atwell, Toby Jones, Jenny Agutter, Robert Redford, and Samuel L. Jackson."
+        },
+        {
+          "id": "guardians-of-the-galaxy",
+          "imdbId": "tt2015381",
+          "railId": "marvel",
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "runtimeMinutes": 121,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/33/Guardians_of_the_Galaxy_%28film%29_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/guardians-of-the-galaxy.mp4",
+          "description": "Guardians of the Galaxy (retroactively referred to as Guardians of the Galaxy Vol. 1) is a 2014 American superhero film based on the Marvel Comics superhero team the Guardians of the Galaxy. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 10th film in the Marvel Cinematic Universe (MCU). Directed by James Gunn, who wrote the screenplay with Nicole Perlman, it features an ensemble cast including Chris Pratt, Zoe Saldaña, Dave Bautista, Vin Diesel, and Bradley Cooper as the titular Guardians, along with Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou, John C. Reilly, Glenn Close, and Benicio del Toro."
+        },
+        {
+          "id": "doctor-strange",
+          "imdbId": "tt1211837",
+          "railId": "marvel",
+          "title": "Doctor Strange",
+          "year": 2016,
+          "runtimeMinutes": 115,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/a/a1/Doctor_Strange_%282016_film%29_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/doctor-strange.mp4",
+          "description": "Doctor Strange is a 2016 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 14th film in the Marvel Cinematic Universe (MCU). The film was directed by Scott Derrickson from a screenplay he wrote with Jon Spaihts and C. Robert Cargill, and stars Benedict Cumberbatch as neurosurgeon Stephen Strange along with Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Michael Stuhlbarg, Benjamin Bratt, Scott Adkins, Mads Mikkelsen, and Tilda Swinton."
+        },
+        {
+          "id": "captain-america-civil-war",
+          "imdbId": "tt3498820",
+          "railId": "marvel",
+          "title": "Captain America: Civil War",
+          "year": 2016,
+          "runtimeMinutes": 147,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/captain-america-civil-war.mp4",
+          "description": "Captain America: Civil War is a 2016 American superhero film based on the Marvel Comics character Captain America, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Captain America: The Winter Soldier (2014) and the 13th film in the Marvel Cinematic Universe (MCU). Directed by Anthony and Joe Russo, the film centers on a rift within the Avengers over international oversight of their activities, splitting the team into factions led by Steve Rogers and Tony Stark, and stars Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Paul Rudd, Emily VanCamp, Tom Holland, Frank Grillo, William Hurt, and Daniel Brühl."
+        },
+        {
+          "id": "thor-ragnarok",
+          "imdbId": "tt3501632",
+          "railId": "marvel",
+          "title": "Thor: Ragnarok",
+          "year": 2017,
+          "runtimeMinutes": 130,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/thor-ragnarok.mp4",
+          "description": "Thor: Ragnarok is a 2017 American superhero film based on the Marvel Comics character Thor, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Thor (2011) and Thor: The Dark World (2013), and is the 17th film in the Marvel Cinematic Universe (MCU). The film was directed by Taika Waititi from a screenplay by Eric Pearson and the writing team of Craig Kyle and Christopher Yost, and stars Chris Hemsworth as Thor alongside Tom Hiddleston, Cate Blanchett, Idris Elba, Jeff Goldblum, Tessa Thompson, Karl Urban, Mark Ruffalo, and Anthony Hopkins."
+        },
+        {
+          "id": "guardians-of-the-galaxy-vol-2",
+          "imdbId": "tt3896198",
+          "railId": "marvel",
+          "title": "Guardians of the Galaxy Vol. 2",
+          "year": 2017,
+          "runtimeMinutes": 136,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Guardians_of_the_Galaxy_Vol._2_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/guardians-of-the-galaxy-vol-2.mp4",
+          "description": "Guardians of the Galaxy Vol. 2 is a 2017 American superhero film based on the Marvel Comics superhero team the Guardians of the Galaxy. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Guardians of the Galaxy (2014) and the 15th film in the Marvel Cinematic Universe (MCU). Written and directed by James Gunn, the film explores Peter Quill's mysterious parentage as the Guardians travel across the cosmos, and stars Chris Pratt, Zoe Saldaña, Dave Bautista, Vin Diesel, Bradley Cooper, Michael Rooker, Karen Gillan, Pom Klementieff, Elizabeth Debicki, Chris Sullivan, Sean Gunn, Sylvester Stallone, and Kurt Russell."
+        },
+        {
+          "id": "black-panther",
+          "imdbId": "tt1825683",
+          "railId": "marvel",
+          "title": "Black Panther",
+          "year": 2018,
+          "runtimeMinutes": 134,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Black_Panther_%28film%29_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/black-panther.mp4",
+          "description": "Black Panther is a 2018 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 18th film in the Marvel Cinematic Universe (MCU). The film was directed by Ryan Coogler, who co-wrote the screenplay with Joe Robert Cole, and it stars Chadwick Boseman as T'Challa / Black Panther alongside Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Daniel Kaluuya, Letitia Wright, Winston Duke, Sterling K. Brown, Angela Bassett, Forest Whitaker, and Andy Serkis."
+        },
+        {
+          "id": "avengers-infinity-war",
+          "imdbId": "tt4154756",
+          "railId": "marvel",
+          "title": "Avengers: Infinity War",
+          "year": 2018,
+          "runtimeMinutes": 149,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/avengers-infinity-war.mp4",
+          "description": "Avengers: Infinity War is a 2018 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to The Avengers (2012) and Avengers: Age of Ultron (2015), and the 19th film in the Marvel Cinematic Universe (MCU). Directed by Anthony and Joe Russo and written by Christopher Markus and Stephen McFeely, the film features an ensemble cast including Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Benedict Cumberbatch, Don Cheadle, Tom Holland, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Dave Bautista, Zoe Saldaña, Josh Brolin, and Chris Pratt."
+        },
+        {
+          "id": "avengers-endgame",
+          "imdbId": "tt4154796",
+          "railId": "marvel",
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "runtimeMinutes": 181,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/avengers-endgame.mp4",
+          "description": "Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018) and the 22nd film in the Marvel Cinematic Universe (MCU). Directed by Anthony and Joe Russo and written by Christopher Markus and Stephen McFeely, the film features an ensemble cast that includes Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, and Josh Brolin."
+        },
+        {
+          "id": "spider-man-no-way-home",
+          "imdbId": "tt10872600",
+          "railId": "marvel",
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "runtimeMinutes": 148,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/spider-man-no-way-home.mp4",
+          "description": "Spider-Man: No Way Home is a 2021 American superhero film based on the Marvel Comics character Spider-Man. Produced by Columbia Pictures, Marvel Studios, and Pascal Pictures, and distributed by Sony Pictures Releasing, it is the sequel to Spider-Man: Homecoming (2017) and Spider-Man: Far From Home (2019), and the 27th film in the Marvel Cinematic Universe (MCU). The film was directed by Jon Watts, written by Chris McKenna and Erik Sommers, and stars Tom Holland as Peter Parker / Spider-Man alongside Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau, Jamie Foxx, Willem Dafoe, Alfred Molina, Benedict Wong, Tony Revolori, Marisa Tomei, Andrew Garfield, and Tobey Maguire."
+        },
+        {
+          "id": "guardians-of-the-galaxy-vol-3",
+          "imdbId": "tt6791350",
+          "railId": "marvel",
+          "title": "Guardians of the Galaxy Vol. 3",
+          "year": 2023,
+          "runtimeMinutes": 150,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/guardians-of-the-galaxy-vol-3.mp4",
+          "description": "Guardians of the Galaxy Vol. 3 is a 2023 American superhero film based on the Marvel Comics superhero team the Guardians of the Galaxy. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Guardians of the Galaxy Vol. 2 (2017) and the concluding chapter of the Guardians trilogy within the Marvel Cinematic Universe (MCU). Written and directed by James Gunn, the film follows the Guardians as they race to save Rocket's life while confronting his tragic origins at the hands of the High Evolutionary, and stars Chris Pratt, Zoe Saldaña, Dave Bautista, Karen Gillan, Pom Klementieff, Vin Diesel, Bradley Cooper, Sean Gunn, Chukwudi Iwuji, Will Poulter, Maria Bakalova, and Chris Sullivan."
+        },
+        {
+          "id": "captain-america-brave-new-world",
+          "imdbId": "tt14513804",
+          "railId": "marvel",
+          "title": "Captain America: Brave New World",
+          "year": 2025,
+          "runtimeMinutes": 118,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Captain_America_Brave_New_World_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/marvel/captain-america-brave-new-world.mp4",
+          "description": "Captain America: Brave New World is a 2025 American superhero film based on the Marvel Comics character Captain America, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is part of Phase Five of the Marvel Cinematic Universe (MCU), following the Disney+ miniseries The Falcon and the Winter Soldier. Directed by Julius Onah, the film stars Anthony Mackie as Sam Wilson, the new Captain America, who becomes entangled in an international incident after newly elected U.S. President Thaddeus Ross is targeted by a mind-control conspiracy, and also stars Harrison Ford, Danny Ramirez, Shira Haas, Carl Lumbly, Tim Blake Nelson, and Liv Tyler."
+        }
+      ]
+    },
+    {
+      "id": "bond",
+      "title": "James Bond Movies",
+      "movies": [
+        {
+          "id": "dr-no",
+          "imdbId": "tt0055928",
+          "railId": "bond",
+          "title": "Dr. No",
+          "year": 1962,
+          "runtimeMinutes": 110,
+          "certificate": "PG",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Dr._No_-_UK_cinema_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/bond/dr-no.mp4",
+          "description": "Dr. No is a 1962 spy film and the first film in the James Bond series, starring Sean Connery as the fictional MI6 agent James Bond. Co-starring Ursula Andress, Joseph Wiseman and Jack Lord, it was directed by Terence Young and adapted by Richard Maibaum, Johanna Harwood, and Berkely Mather from the 1958 novel by Ian Fleming. The film was produced by Harry Saltzman and Albert R. Broccoli of Eon Productions, a partnership that continued until 1975."
+        },
+        {
+          "id": "goldfinger",
+          "imdbId": "tt0058150",
+          "railId": "bond",
+          "title": "Goldfinger",
+          "year": 1964,
+          "runtimeMinutes": 110,
+          "certificate": "PG",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Goldfinger_-_UK_cinema_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/bond/goldfinger.mp4",
+          "description": "Goldfinger is a 1964 spy film and the third instalment in the James Bond series produced by Eon Productions, starring Sean Connery as the fictional MI6 agent James Bond. It is based on the 1959 novel by Ian Fleming. The film also stars Honor Blackman, Gert Fröbe and Shirley Eaton. Goldfinger was produced by Albert R. Broccoli and Harry Saltzman."
+        },
+        {
+          "id": "the-spy-who-loved-me",
+          "imdbId": "tt0076752",
+          "railId": "bond",
+          "title": "The Spy Who Loved Me",
+          "year": 1977,
+          "runtimeMinutes": 125,
+          "certificate": "PG",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/The_Spy_Who_Loved_Me_%28UK_cinema_poster%29.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/bond/the-spy-who-loved-me.mp4",
+          "description": "The Spy Who Loved Me is a 1977 spy film, the tenth in the James Bond series produced by Eon Productions. It is the third to star Roger Moore as the fictional secret agent James Bond and the second to be directed by Lewis Gilbert. The film co-stars Barbara Bach and Curt Jurgens. The screenplay was by Christopher Wood and Richard Maibaum, with an uncredited rewrite by Tom Mankiewicz."
+        },
+        {
+          "id": "licence-to-kill",
+          "imdbId": "tt0097742",
+          "railId": "bond",
+          "title": "Licence to Kill",
+          "year": 1989,
+          "runtimeMinutes": 133,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/Licence_to_Kill_-_UK_cinema_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/bond/licence-to-kill.mp4",
+          "description": "Licence to Kill is a 1989 spy film, the sixteenth in the James Bond series produced by Eon Productions, and the second and final film to star Timothy Dalton as the MI6 agent James Bond. In the film, Bond resigns from MI6 in order to take revenge against the drug lord Franz Sanchez who ordered an attack against Bond's friend and CIA agent Felix Leiter and the murder of Felix's wife after their wedding."
+        },
+        {
+          "id": "goldeneye",
+          "imdbId": "tt0113189",
+          "railId": "bond",
+          "title": "GoldenEye",
+          "year": 1995,
+          "runtimeMinutes": 130,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/24/GoldenEye_-_UK_cinema_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/bond/goldeneye.mp4",
+          "description": "GoldenEye is a 1995 spy film, the seventeenth in the James Bond series produced by Eon Productions, and the first to star Pierce Brosnan as the fictional MI6 agent James Bond. Directed by Martin Campbell, it was the first in the series not to use any story elements from the works of novelist Ian Fleming."
+        },
+        {
+          "id": "casino-royale",
+          "imdbId": "tt0381061",
+          "railId": "bond",
+          "title": "Casino Royale",
+          "year": 2006,
+          "runtimeMinutes": 144,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/Casino_Royale_%282006_film_poster%29.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/bond/casino-royale.mp4",
+          "description": "Casino Royale is a 2006 spy thriller film, the twenty-first in the James Bond series by Eon Productions, the third screen adaptation of Ian Fleming's 1953 novel of the same name, and the first to star Daniel Craig as the fictional MI6 agent James Bond. The second entry in the film series to be directed by Martin Campbell, Casino Royale's screenplay was written by Neal Purvis, Robert Wade and Paul Haggis; the film co-stars Eva Green, Mads Mikkelsen, Judi Dench and Jeffrey Wright."
+        },
+        {
+          "id": "skyfall",
+          "imdbId": "tt1074638",
+          "railId": "bond",
+          "title": "Skyfall",
+          "year": 2012,
+          "runtimeMinutes": 143,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/Skyfall_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/bond/skyfall.mp4",
+          "description": "Skyfall is a 2012 spy film and the twenty-third in the James Bond series produced by Eon Productions. The film is the third to star Daniel Craig as fictional MI6 agent James Bond and features Javier Bardem as Raoul Silva, the villain, with Judi Dench returning as M. The film was directed by Sam Mendes and written by Neal Purvis, Robert Wade, and John Logan."
+        },
+        {
+          "id": "spectre",
+          "imdbId": "tt2379713",
+          "railId": "bond",
+          "title": "Spectre",
+          "year": 2015,
+          "runtimeMinutes": 148,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Spectre_2015_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/bond/spectre.mp4",
+          "description": "Spectre is a 2015 spy thriller film and the twenty-fourth instalment in the James Bond film series produced by Eon Productions. The sequel to Skyfall (2012), it is the fourth film to star Daniel Craig as the fictional MI6 agent James Bond. The film was directed by Sam Mendes and written by John Logan, Neal Purvis, Robert Wade, and Jez Butterworth from a story conceived by Logan, Purvis, and Wade."
+        },
+        {
+          "id": "no-time-to-die",
+          "imdbId": "tt2382320",
+          "railId": "bond",
+          "title": "No Time to Die",
+          "year": 2021,
+          "runtimeMinutes": 163,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/f/fe/No_Time_to_Die_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/bond/no-time-to-die.mp4",
+          "description": "No Time to Die is a 2021 spy thriller film and the twenty-fifth film in the James Bond series. The sequel to Spectre (2015), it is the fifth and final film to star Daniel Craig as the fictional British MI6 agent James Bond. In the film, Bond has retired from active service in MI6 and is recruited by the CIA to extract a kidnapped scientist carrying deadly DNA-targeting nanobots, leading him to uncover a plot by the bioterrorist Lyutsifer Safin to kill millions of people."
+        }
+      ]
+    },
+    {
+      "id": "potter",
+      "title": "Harry Potter Movies",
+      "movies": [
+        {
+          "id": "harry-potter-and-the-philosophers-stone",
+          "imdbId": "tt0241527",
+          "railId": "potter",
+          "title": "Harry Potter and the Philosopher's Stone",
+          "year": 2001,
+          "runtimeMinutes": 152,
+          "certificate": "PG",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/potter/harry-potter-and-the-philosophers-stone.mp4",
+          "description": "Harry Potter and the Philosopher's Stone (also known as Harry Potter and the Sorcerer's Stone in the United States, India and the Philippines) is a 2001 fantasy film directed by Chris Columbus and written by Steve Kloves, based on the 1997 novel by J. K. Rowling. It is the first instalment in the Harry Potter film series, and stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger."
+        },
+        {
+          "id": "harry-potter-and-the-chamber-of-secrets",
+          "imdbId": "tt0295297",
+          "railId": "potter",
+          "title": "Harry Potter and the Chamber of Secrets",
+          "year": 2002,
+          "runtimeMinutes": 161,
+          "certificate": "PG",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/Harry_Potter_and_the_Chamber_of_Secrets_movie.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/potter/harry-potter-and-the-chamber-of-secrets.mp4",
+          "description": "Harry Potter and the Chamber of Secrets is a 2002 fantasy film directed by Chris Columbus from a screenplay by Steve Kloves. It is based on the 1998 novel Harry Potter and the Chamber of Secrets by J. K. Rowling. Produced by David Heyman, it is the sequel to Harry Potter and the Philosopher's Stone (2001) and the second instalment in the Harry Potter film series."
+        },
+        {
+          "id": "harry-potter-and-the-prisoner-of-azkaban",
+          "imdbId": "tt0304141",
+          "railId": "potter",
+          "title": "Harry Potter and the Prisoner of Azkaban",
+          "year": 2004,
+          "runtimeMinutes": 142,
+          "certificate": "PG",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Harry_Potter_and_the_Prisoner_of_Azkaban_film_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/potter/harry-potter-and-the-prisoner-of-azkaban.mp4",
+          "description": "Harry Potter and the Prisoner of Azkaban is a 2004 fantasy film directed by Alfonso Cuarón from a screenplay by Steve Kloves. It is based on the 1999 novel Harry Potter and the Prisoner of Azkaban by J. K. Rowling. It is the sequel to Harry Potter and the Chamber of Secrets (2002) and the third instalment in the Harry Potter film series."
+        },
+        {
+          "id": "harry-potter-and-the-goblet-of-fire",
+          "imdbId": "tt0330373",
+          "railId": "potter",
+          "title": "Harry Potter and the Goblet of Fire",
+          "year": 2005,
+          "runtimeMinutes": 157,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c9/Harry_Potter_and_the_Goblet_of_Fire_Poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/potter/harry-potter-and-the-goblet-of-fire.mp4",
+          "description": "Harry Potter and the Goblet of Fire is a 2005 fantasy film directed by Mike Newell from a screenplay by Steve Kloves. It is based on the 2000 novel Harry Potter and the Goblet of Fire by J. K. Rowling. It is the sequel to Harry Potter and the Prisoner of Azkaban (2004) and the fourth instalment in the Harry Potter film series."
+        },
+        {
+          "id": "harry-potter-and-the-order-of-the-phoenix",
+          "imdbId": "tt0373889",
+          "railId": "potter",
+          "title": "Harry Potter and the Order of the Phoenix",
+          "year": 2007,
+          "runtimeMinutes": 138,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/potter/harry-potter-and-the-order-of-the-phoenix.mp4",
+          "description": "Harry Potter and the Order of the Phoenix is a 2007 fantasy film directed by David Yates from a screenplay by Michael Goldenberg. It is based on the 2003 novel Harry Potter and the Order of the Phoenix by J. K. Rowling. It is the sequel to Harry Potter and the Goblet of Fire (2005) and the fifth instalment in the Harry Potter film series."
+        },
+        {
+          "id": "harry-potter-and-the-half-blood-prince",
+          "imdbId": "tt0417741",
+          "railId": "potter",
+          "title": "Harry Potter and the Half-Blood Prince",
+          "year": 2009,
+          "runtimeMinutes": 153,
+          "certificate": "PG",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Harry_Potter_and_the_Half-Blood_Prince_poster.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/potter/harry-potter-and-the-half-blood-prince.mp4",
+          "description": "Harry Potter and the Half-Blood Prince is a 2009 fantasy film directed by David Yates from a screenplay by Steve Kloves. It is based on the 2005 novel Harry Potter and the Half-Blood Prince by J. K. Rowling. It is the sequel to Harry Potter and the Order of the Phoenix (2007) and the sixth instalment in the Harry Potter film series."
+        },
+        {
+          "id": "harry-potter-and-the-deathly-hallows-part-1",
+          "imdbId": "tt0926084",
+          "railId": "potter",
+          "title": "Harry Potter and the Deathly Hallows – Part 1",
+          "year": 2010,
+          "runtimeMinutes": 146,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1.jpg",
+          "previewUrl": "https://amzn-s3-movies-rosano.s3.us-east-2.amazonaws.com/trailers/potter/harry-potter-and-the-deathly-hallows-part-1.mp4",
+          "description": "Harry Potter and the Deathly Hallows – Part 1 is a 2010 fantasy film directed by David Yates from a screenplay by Steve Kloves. The first of two cinematic parts based on the 2007 novel Harry Potter and the Deathly Hallows by J. K. Rowling, it is the sequel to Harry Potter and the Half-Blood Prince (2009) and the seventh instalment in the Harry Potter film series."
+        },
+        {
+          "id": "harry-potter-and-the-deathly-hallows-part-2",
+          "imdbId": "tt1201607",
+          "railId": "potter",
+          "title": "Harry Potter and the Deathly Hallows – Part 2",
+          "year": 2011,
+          "runtimeMinutes": 130,
+          "certificate": "PG-13",
+          "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg",
+          "previewUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/1080/Sintel_1080_10s_5MB.mp4",
+          "description": "Harry Potter and the Deathly Hallows – Part 2 is a 2011 fantasy film directed by David Yates from a screenplay by Steve Kloves. It is the second of two cinematic parts based on the 2007 novel by J. K. Rowling, and the eighth and final instalment of the Harry Potter film series."
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,56 @@
+
+# ==========================================
+# Dependencies & Package Managers
+# ==========================================
+node_modules/
+jspm_packages/
+web_modules/
+vendor/
+venv/
+.venv/
+env/
+.wrangler/
+
+
+# ==========================================
+# Environment Variables & Secrets
+# ==========================================
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# ==========================================
+# Build Outputs & Compiled Code
+# ==========================================
+dist/
+build/
+out/
+*.exe
+*.dll
+*.so
+*.class
+__pycache__/
+*.pyc
+
+# ==========================================
+# Logs and Runtime Caches
+# ==========================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+.eslintcache
+.cache/
+
+# ==========================================
+# Operating System & IDE Garbage
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

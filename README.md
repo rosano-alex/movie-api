@@ -1,6 +1,6 @@
 # Movie API
 
-A small Cloudflare Worker that serves curated movie rails for Harry Potter, James Bond, and Marvel.
+A small Cloudflare Worker that serves curated movie rails for Harry Potter, James Bond, and Marvel.  This API is used by the stream-shelf set top app.
 
 ## Quick start
 
